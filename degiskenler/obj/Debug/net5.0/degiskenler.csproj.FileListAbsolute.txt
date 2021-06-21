@@ -1,0 +1,16 @@
+D:\Yazılım\Patika\C# 101\degiskenler\bin\Debug\net5.0\degiskenler.exe
+D:\Yazılım\Patika\C# 101\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+D:\Yazılım\Patika\C# 101\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+D:\Yazılım\Patika\C# 101\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+D:\Yazılım\Patika\C# 101\degiskenler\bin\Debug\net5.0\degiskenler.dll
+D:\Yazılım\Patika\C# 101\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+D:\Yazılım\Patika\C# 101\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.csprojAssemblyReference.cache
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.dll
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+D:\Yazılım\Patika\C# 101\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
