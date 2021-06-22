@@ -1,0 +1,16 @@
+D:\Yazılım\Patika\C# 101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.exe
+D:\Yazılım\Patika\C# 101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.deps.json
+D:\Yazılım\Patika\C# 101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.json
+D:\Yazılım\Patika\C# 101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.dev.json
+D:\Yazılım\Patika\C# 101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.dll
+D:\Yazılım\Patika\C# 101\hata-yonetimi\bin\Debug\net5.0\ref\hata-yonetimi.dll
+D:\Yazılım\Patika\C# 101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.pdb
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csprojAssemblyReference.cache
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfoInputs.cache
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfo.cs
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.dll
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\ref\hata-yonetimi.dll
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.pdb
+D:\Yazılım\Patika\C# 101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.genruntimeconfig.cache
